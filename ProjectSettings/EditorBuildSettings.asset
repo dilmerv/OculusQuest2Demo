@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Oculus/SampleFramework/Usage/HandsInteractionTrainScene.unity
+    guid: a9c41884ef0c347628dfd8a4af4a022e
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 5dcbb9c0a1ba7f4458a3ac72770bbca4, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f28aa26f092ac6647928ed9776289b70, type: 2}
